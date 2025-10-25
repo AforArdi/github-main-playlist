@@ -1,3 +1,10 @@
 #intro
 I'm Mohammad Ardi
 I'm 21 years old
+
+#skills
+C
+Python
+SQL
+HTML
+git and github
