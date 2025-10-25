@@ -1,0 +1,14 @@
+25/10/2025
+All about git & GitHub
+git:
+1. version tracking
+2. change tracking
+3. collaboration
+(inside local machine)
+
+GitHub:
+1. globally hosted->remote folder/ repository
+2. to use it->local clone of repository
+
+Environment setup & configuration:
+git config --list (list of config)
