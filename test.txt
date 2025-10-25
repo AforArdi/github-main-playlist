@@ -8,6 +8,3 @@ Python
 SQL
 HTML
 git and github
-
-#last commit
-this message is gonna get deleted after I revert to the latest commit
